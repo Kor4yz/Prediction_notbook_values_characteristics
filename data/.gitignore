@@ -1,0 +1,5 @@
+data/*.csv
+models/*.joblib
+reports/*.json
+reports/figures/*
+!.gitkeep
